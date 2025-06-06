@@ -2,6 +2,7 @@
 
 This project provides tools to create SUMO (Simulation of Urban MObility) traffic scenarios using real-world traffic volume data. It processes traffic count data and generates SUMO-compatible simulation files. This is a project associated with ICCPS 2025 Poster submission. If you use the code and/or data in this project, please cite the following paper:
 
+```
 @inproceedings{zhang20251000daysim,
   title={1000DaySim: Open-Source Traffic Simulation With Real Data Over Long Time Horizons},
   author={Zhang, Zhiyao and Zhang, Yuhang and Qui{\~n}ones-Grueiro, Marcos and Barbour, William and Biswas, Gautam and Work, Daniel},
@@ -9,6 +10,7 @@ This project provides tools to create SUMO (Simulation of Urban MObility) traffi
   pages={1--2},
   year={2025}
 }
+```
 
 ## Project Structure
 
